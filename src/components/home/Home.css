@@ -1,0 +1,27 @@
+
+.home-text{
+    color: rgb(248, 101, 101);
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    padding: 40px;
+}
+.home-img{
+  
+    display: flex;
+}
+.DU-text{
+    
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.DU-text-2{
+  
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.DU-text :link{
+    text-decoration: none;
+}

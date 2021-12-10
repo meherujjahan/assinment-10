@@ -1,0 +1,49 @@
+[
+   
+    {
+        "id": 1,
+        "name": "Debating Club",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dwGeIKGkfpm531uiEtI2Nvo4smfbh7qWag&usqp=CAU",
+        "fee": 2000,
+        "duration": 3
+      },
+      {
+        "id": 2,
+        "name": "Dancing Club",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE6BaRRsoGhejEN9IJgvEa39_aDM09juYHwA&usqp=CAU",
+        "fee": 5000,
+        "duration": 2
+      },
+      {
+        "id": 3,
+        "name": "Learning instrument",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk4gy-xtbUxFyNALJoZVqlyN7FZ8_SF24RRw&usqp=CAU",
+        "fee": 7000,
+        "duration": 1
+      },
+      
+    {
+      "id": 4,
+      "name": "Web Desing",
+      "img": "https://www.kindpng.com/picc/m/466-4661766_web-design-and-website-development-icon-web-design.png",
+      "fee": 5000,
+      "duration": 4
+    },
+    {
+        "id": 5,
+        "name": "Web Development",
+        "img": "https://previews.123rf.com/images/valentint/valentint1612/valentint161202083/67224537-web-development-icon-black-website-button-on-white-background-.jpg",
+        "fee": 10000,
+        "duration": 6
+      },
+    
+    
+      {
+        "id": 6,
+        "name": "Learning English",
+        "img": "https://image.shutterstock.com/image-vector/speak-english-voice-icon-flag-260nw-1226304805.jpg",
+        "fee": 2000,
+        "duration": 2
+      }
+   
+  ]

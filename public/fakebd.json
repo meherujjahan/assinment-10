@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/AAMS_Arefin_Siddique.jpg/112px-AAMS_Arefin_Siddique.jpg",
+      "name": "Professor D. AAMS Arefin Siddique"
+    },
+    {
+      "id": 2,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/A_F_M_Yousuf_Haider%2C_professor_of_physics_.jpg/112px-A_F_M_Yousuf_Haider%2C_professor_of_physics_.jpg",
+      "name": "Professor A F M Yusuf Haider"
+    },
+    {
+      "id": 3,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Muhammad_Akhtaruzzaman_VC_DU.jpg/114px-Muhammad_Akhtaruzzaman_VC_DU.jpg",
+      "name": "Professor D. AAMS Arefin Siddique"
+    },
+    {
+      "id": 4,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/R_C_Majumdar.jpg/114px-R_C_Majumdar.jpg",
+      "name": "Professor R. C. Majumdar"
+    }
+  ]

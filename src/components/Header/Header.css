@@ -1,0 +1,14 @@
+.header{
+    background-color: rgb(7, 7, 7);
+}
+
+.header :link{
+    color: white;
+   font-size: 30px;
+   padding-left: 30px;
+    text-decoration: none;
+    line-height: 80px;
+}
+.header :hover{
+    color: white;
+}
